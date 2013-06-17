@@ -1,0 +1,17 @@
+{
+  "author": "Twerky Worky",
+  "name": "twerkbot",
+  "description": "A bot",
+  "private": true,
+  "version": "0.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "ntwitter": "~0.2.0"
+  },
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.2.x"
+  }
+}
